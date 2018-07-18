@@ -1,1 +1,1 @@
-# webpack-dev-server with pug and sass ready for work
+# webpack-dev-server with pug, sass and jquery ready for work
